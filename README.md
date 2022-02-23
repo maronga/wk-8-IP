@@ -60,4 +60,4 @@ Predicting Hypothyroidism: Python Project IP Week 8 Core
 
 *{MIT License.  See below for more details on licensing.}*
 
-Copyright (c) {2019} **{Moringa School Data Science Core 1}**
+Copyright (c) {2022} **{Moringa School Data Science Core}**
